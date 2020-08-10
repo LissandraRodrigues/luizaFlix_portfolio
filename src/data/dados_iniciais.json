@@ -1,0 +1,83 @@
+{
+  "categorias": [
+    {
+      "titulo": "Projetos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Alguns dos meus projetos",
+        "url": "https://github.com/LissandraRodrigues"
+      },
+      "videos": [
+        {
+          "titulo": "Luiza Lissandra",
+          "url": "https://www.youtube.com/watch?v=Tv8t4CfctT4"
+        },
+        {
+          "titulo": "Proffy",
+          "url": "https://youtu.be/PDvNTTUjlOM"
+        },
+        {
+          "titulo": "Ecoleta",
+          "url": "https://www.youtube.com/watch?v=QFSmhXbnT3Q"
+        },
+        {
+          "titulo": "LuizaFlix",
+          "url": "https://youtu.be/zATxI-_46LY"
+        },
+        {
+          "titulo": "Portfólio",
+          "url": "https://www.youtube.com/watch?v=jIfD58oWuQM"
+        },
+        {
+          "titulo": "Jogo Ping-Pong",
+          "url": "https://www.youtube.com/watch?v=unL6ZYP4G60"
+        },
+        {
+          "titulo": "Desenhe Aqui",
+          "url": "https://www.youtube.com/watch?v=lLA2tzMprfI"
+        },
+        {
+          "titulo": "Jogo da Velha",
+          "url": "https://www.youtube.com/watch?v=50SdwP6iXbQ"
+        }       
+      ]
+    },
+    {
+      "titulo": "Hackathons",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Meus projetos desenvolvidos em Hackathons",
+        "url": "https://github.com/LissandraRodrigues"
+      },
+      "videos": [
+        {
+          "titulo": "Liv",
+          "url": "https://www.youtube.com/watch?v=1PgXwTWuz_w"
+        },
+        {
+          "titulo": "Agilicar",
+          "url": "https://www.youtube.com/watch?v=W2OsVL8vhc8&"
+        },
+        {
+          "titulo": "Tags",
+          "url": "https://www.youtube.com/watch?v=bgvWcUgYe2g"
+        }
+      ]
+    },
+    {
+      "titulo": "Design",
+      "cor": "pink",
+      "link_extra": {
+        "text": "Meus projetos como entusiasta de Design",
+        "url": "https://www.behance.net/luizalissandra"
+      },
+      "videos": [
+        {
+          "titulo": "ChefOnline",
+          "url": "https://www.youtube.com/watch?v=H7g1jblfYEU"
+        }
+      ]
+
+    }
+   
+  ]}
